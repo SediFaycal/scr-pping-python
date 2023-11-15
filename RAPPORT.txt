@@ -1,0 +1,12 @@
+J'ai rencontré quelques difficultés car je n'avais pas encore beaucoup appris sur le web scraping avec Python.
+
+Dans un premier temps, j'ai extrait des articles de différents médias internationaux, en comptant les mots qui 
+
+revenaient le plus souvent, tels que "Israël", "news", et "Gaza". scrapping_bbc.csv
+
+
+Ensuite, j'ai effectué un scraping sur le site d'une 
+
+chaîne de sport américaine où j'ai listé les équipes de la Premier League. Leaguetable.csv
+
+
